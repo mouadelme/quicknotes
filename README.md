@@ -19,10 +19,10 @@ QuickNotes is a full-stack, cloud-native note-taking application built with Reac
 
 ## Development Setup
 
-Install dependencies: npm install
-Run local development server: npm run dev
-Build for production: npm run build
-Preview production build locally: npm run preview
+* Install dependencies: npm install
+* Run local development server: npm run dev
+* Build for production: npm run build
+* Preview production build locally: npm run preview
 
 ## Live Demo
 
