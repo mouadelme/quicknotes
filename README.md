@@ -1,4 +1,4 @@
-# Quick Notes
+# QuickNotes
 
 QuickNotes is a full-stack, cloud-native note-taking application built with React + Vite on the frontend and Express + Firestore on the backend. It supports real-time CRUD operations and is deployed to Google Cloud Platform (GCP) using Cloud Run and Cloud Build.
 
