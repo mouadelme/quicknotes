@@ -4,10 +4,10 @@ QuickNotes is a full-stack, cloud-native note-taking application built with Reac
 
 ## Tech Stack
 
-Frontend: React (TypeScript) + Vite
-Backend: Express.js (Node.js)
-Database: Google Firestore (NoSQL)
-Deployment: Cloud Run + Docker + Cloud Build
+* Frontend: React (TypeScript) + Vite
+* Backend: Express.js (Node.js)
+* Database: Google Firestore (NoSQL)
+* Deployment: Cloud Run + Docker + Cloud Build
 
 ## Features
 
